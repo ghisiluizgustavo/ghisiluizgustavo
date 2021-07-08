@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá pessoas 👋
 
-<!--
-**ghisiluizgustavo/ghisiluizgustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+**Sobre mim...**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou trabalhando na **@portoseguro** como **Analista de Sistemas JR**
+- 🌱 Sou estudante de ciência da computação na **@unesc**
+- 👯 Estou me interessando por **Back-End & Cloud**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghisiluizgustavo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![LinkedIn][linkedin-shield]][linkedin-url] [![Instagram][instagram-shield]][instagram-url]
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/luiz-gustavo-ghisi-flores/
+[instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[instagram-url]: https://www.instagram.com/ghisiluizgustavo/
