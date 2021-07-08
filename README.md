@@ -17,6 +17,5 @@
 [linkedin-url]: https://www.linkedin.com/in/luiz-gustavo-ghisi-flores/
 [instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [instagram-url]: https://www.instagram.com/ghisiluizgustavo/
-<br>
 
 ![Snake animation](https://github.com/ghisiluizgustavo/ghisiluizgustavo/blob/output/github-contribution-grid-snake.svg)
