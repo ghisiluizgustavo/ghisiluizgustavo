@@ -18,4 +18,3 @@
 [instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [instagram-url]: https://www.instagram.com/ghisiluizgustavo/
 
-![Snake animation](https://github.com/ghisiluizgustavo/ghisiluizgustavo/blob/output/github-contribution-grid-snake.svg)
