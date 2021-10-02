@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente estou trabalhando na **@portoseguro** como **Analista de Sistemas JR**
 - 🌱 Sou estudante de ciência da computação na **@unesc**
-- 👯 Estou me interessando por **Back-End & Cloud**
+- 👯 Estou me interessando por **Back-End & DevOps**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghisiluizgustavo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
