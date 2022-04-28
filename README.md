@@ -1,6 +1,4 @@
-### Hello people 👋
-
-<hr>
+>### Hello people 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghisiluizgustavo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
